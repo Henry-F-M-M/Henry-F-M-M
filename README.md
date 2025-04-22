@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 👋
 
 <!--
 **Henry-F-M-M/Henry-F-M-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on bioinformatics / computational biology of viral proteins.
+- 🌱 I’m currently learning Python, Perl.
+- 📫 How to reach me: magalhaeshfm@biof.ufrj.br 
+- 😄 Pronouns: He/Him
